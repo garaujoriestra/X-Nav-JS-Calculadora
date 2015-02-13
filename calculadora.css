@@ -1,0 +1,22 @@
+body{
+	background-color: yellow;
+}
+#botones{
+	padding: 100px;
+}
+#caja_resultado	{
+	padding: 8px;
+	margin-left: 50px;
+	height: 20px;
+	width: 200px;
+	border: 1px solid #333;
+}
+
+a{
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid black;
+	text-decoration: none;
+	cursor: pointer;
+	color: blue;
+}
